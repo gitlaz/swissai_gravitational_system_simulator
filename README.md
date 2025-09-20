@@ -4,6 +4,7 @@ Gravitational System Simulator
 This code is designed to analyze, clusterize and synthesize gravitational systems - think solar systems, planetary systems, or moon systems - where you have a central body (like a star or planet) with multiple objects orbiting around it.
 
 The Complete Pipeline
+
 Step 1: Analysis → Step 2: Clustering → Step 3: Synthesis ↓ ↓ ↓ Study real systems → Group similar ones → Generate new ones Quality Control Features
 
 What the Code Does (In Simple Terms)
