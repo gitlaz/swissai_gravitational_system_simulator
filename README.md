@@ -1,7 +1,11 @@
 # swissai_gravitational_system_simulator
 Gravitational System Simulator
 
-This code is designed to analyze gravitational systems - think solar systems, planetary systems, or moon systems - where you have a central body (like a star or planet) with multiple objects orbiting around it.
+This code is designed to analyze, clusterize and synthesize gravitational systems - think solar systems, planetary systems, or moon systems - where you have a central body (like a star or planet) with multiple objects orbiting around it.
+
+The Complete Pipeline
+Step 1: Analysis → Step 2: Clustering → Step 3: Synthesis ↓ ↓ ↓ Study real systems → Group similar ones → Generate new ones Quality Control Features
+
 What the Code Does (In Simple Terms)
 The Big Picture:
 The code takes data about orbiting objects (like planets around a star) and analyzes the entire gravitational system as a whole, rather than looking at individual objects. It's like studying the "family dynamics" of a solar system instead of just individual family members.
